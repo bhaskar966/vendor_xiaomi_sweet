@@ -569,6 +569,7 @@ PRODUCT_PACKAGES += \
     libacdbloader \
     libacdbrtac \
     libadiertac \
+    libadm \
     libadpcmdec \
     libaudcal \
     libaudio_log_utils \
@@ -581,7 +582,6 @@ PRODUCT_PACKAGES += \
     libhfp \
     libpn553_fw \
     libqcodec2 \
-    libqtigef \
     librice \
     libsmwrapper \
     libsndmonitor \
@@ -840,6 +840,7 @@ PRODUCT_PACKAGES += \
     librpmb \
     libsdk_sr \
     libsdsprpc \
+    libsensorcal \
     libsensorslog \
     libsnpe_adsp \
     libsnpe_dsp_domains \
@@ -854,6 +855,7 @@ PRODUCT_PACKAGES += \
     libsoc_helper \
     libsoc_helper_jni \
     libssc \
+    libssc_default_listener \
     libssccalapi \
     libssd \
     libswregistrationalgo \
